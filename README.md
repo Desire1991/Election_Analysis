@@ -1,14 +1,28 @@
 # Election_Analysis
 
-Election-Audit Overview
-The purpose of this audit was to use Python to analyze the raw data vote file (election_results.csv) for the 2018 US House Colorado District 1 general election. The counties included in District 1 are Jefferson, Denver, and Arapahoe and the candidates were Dianne DeGette (Democrat), Charles Casper Stockham (Republican) and Raymon Anthony Doane (Liberatarian). Python was used to calculate and organize the data to show total votes cast, votes by county by percentage and quantity, and votes by candidate by percentage and quantity.
-Election-Audit Results
-The analysis lead to the following results which are also reflected in the deliverables:
-Total Votes: 369,711
-•    County Votes: Jefferson: 10.5% (38,855), Denver: 82.8% (306,055), Arapahoe: 6.7% (24,801)
-•    Largest County Turnout: Denver
-•    Candidate Votes: Charles Casper Stockham: 23.0% (85,213), Diana DeGette: 73.8% (272,892),Raymon Anthony Doane: 3.1% (11,606)
-•    Winner: Diana DeGette
+### Election-Audit Overview 
+The purpose of this audit was to use Python to analyze the raw data vote file (election_results.csv) for the 2018 US House Colorado District 1 general election. The counties included in District 1 are:
+
+- Jefferson
+- Denver
+- Arapahoe 
+
+The candidates were :
+
+- Dianne DeGette (Democrat),
+-  Charles Casper Stockham (Republican) 
+-  Raymon Anthony Doane (Liberatarian). 
+
+Python was used to calculate and organize the data to show total votes cast, votes by county by percentage and quantity, and votes by candidate by percentage and quantity. 
+Election-Audit Results The analysis lead to the following results which are also reflected in the deliverables: 
+**Total Votes: 369,711** • 
+County Votes: 
+
+- Jefferson: 10.5% (38,855), 
+- Denver: 82.8% (306,055), 
+- Arapahoe: 6.7% (24,801) 
+
+Largest County Turnout: Denver • Candidate Votes: Charles Casper Stockham: 23.0% (85,213), Diana DeGette: 73.8% (272,892),Raymon Anthony Doane: 3.1% (11,606) • Winner: Diana DeGette Deliverables
 Deliverables
 1.    Election Results Terminal Print out
 <img width="297" alt="Election_results_Terminal" src="https://user-images.githubusercontent.com/74233163/104559661-52939f00-560a-11eb-9723-884f8b668e19.png">
