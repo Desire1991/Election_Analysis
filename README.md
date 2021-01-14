@@ -14,7 +14,6 @@ Deliverables
 <img width="297" alt="Election_results_Terminal" src="https://user-images.githubusercontent.com/74233163/104559661-52939f00-560a-11eb-9723-884f8b668e19.png">
 
 2.    Election Results Text Output File
- <img width="298" alt="Election_results_textoutput" src="https://user-images.githubusercontent.com/74233163/104560183-1e6cae00-560b-11eb-9d67-0f5ab8dc73a8.png">
 
 Election-Audit Summary
 
