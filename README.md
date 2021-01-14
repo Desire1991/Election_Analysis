@@ -11,6 +11,7 @@ The analysis lead to the following results which are also reflected in the deliv
 •    Winner: Diana DeGette
 Deliverables
 1.    Election Results Terminal Print out
+<img width="297" alt="Election_results_Terminal" src="https://user-images.githubusercontent.com/74233163/104559661-52939f00-560a-11eb-9723-884f8b668e19.png">
 
 2.    Election Results Text Output File
  
